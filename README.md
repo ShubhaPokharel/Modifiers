@@ -63,7 +63,7 @@ Example:
 
 - It is applicable to methods, varibles and constructors.
 
-********************************IN SHORT***************************************************************
+## IN SHORT
 
 public :      All packages can access
 
@@ -72,3 +72,23 @@ private :     Only within the class
 protected :      Within the package + outside package only child class( like Inheritance )
 
 default :      Only within the package
+
+Modifier         classes       methods       variables        constructors
+
+public             Yes           Yes          Yes                 Yes
+
+default            Yes           Yes           Yes                Yes
+
+protected          No            Yes           Yes                Yes
+
+private            No            Yes           Yes                Yes
+
+
+
+Note: You can can make classes, methods, vairables, and constructors public. So, I said "yes".
+
+You can can make classes, methods, vairables, and constructors default. So, I said "yes".
+
+You can can make methods, vairables, and constructors protected except classes. So, I said "no".
+
+You can can make methods, vairables, and constructors private except classes. So, I said "no".
