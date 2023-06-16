@@ -77,11 +77,11 @@ Modifier       -----                classes          ------          methods    
 
 public          ----------              Yes           -----------            Yes            -----------         Yes             -------------      Yes
 
-default            Yes           Yes           Yes                Yes
+default          ----------              Yes          -----------             Yes            -----------          Yes           -------------     Yes
 
-protected          No            Yes           Yes                Yes
+protected          ----------             No           -----------            Yes            -----------         Yes            -------------      Yes
 
-private            No            Yes           Yes                Yes
+private          ----------             No           -----------            Yes            -----------         Yes            -------------      Yes
 
 
 
