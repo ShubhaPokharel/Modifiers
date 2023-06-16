@@ -73,9 +73,9 @@ protected :      Within the package + outside package only child class( like Inh
 
 default :      Only within the package
 
-Modifier         classes       methods       variables        constructors
+Modifier                       classes                    methods                  variables               constructors
 
-public             Yes           Yes          Yes                 Yes
+public                           Yes                        Yes                       Yes                       Yes
 
 default            Yes           Yes           Yes                Yes
 
